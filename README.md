@@ -1,6 +1,6 @@
 # ML-Credit-Scoring
 
-Projekt składa się z trzech plików zawierających eksperymenty i pliku głównego, który zawiera standardową wersję projektu.
+Projekt składa się z trzech plików zawierających eksperymenty, oraz pliku głównego, który zawiera standardową wersję projektu.
 
 Pierwszym eksperymentem jest sprawdzenie czy sposób przeszukiwania siatki hiperparametrów, Grid Search i Randomized Search, dla modeli uczenia maszynowego wpływa na wyniki modeli.
 W głównym projekcie siatka hiperparametrów jest przeszukiwania w sposób losowy.
